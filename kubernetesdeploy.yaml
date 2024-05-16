@@ -19,7 +19,7 @@ spec:
          image: sruthi2606/banking-application
           ports:
             - containerport: 8082
---
+---
 apiVersion: v1
 kind: Service
 metadata:
