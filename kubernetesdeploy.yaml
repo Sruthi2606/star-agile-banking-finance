@@ -28,7 +28,7 @@ metadata:
     app: banking-application
 spec:
   selector:
-    app: banking-appliation
+    app: banking-application
 
   type: NodePort
   ports:
