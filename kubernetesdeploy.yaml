@@ -18,7 +18,7 @@ spec:
        - name: banking-application-container
          image: sruthi2606/banking-application:latest
          ports:
-            - containerport: 8082
+         - containerport: 8082
 ---
 apiVersion: v1
 kind: Service
